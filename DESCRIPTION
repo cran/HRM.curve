@@ -1,0 +1,22 @@
+Package: HRM.curve
+Type: Package
+Title: High-Resolution Melting (HRM) Curve Analysis
+Version: 0.0.1
+Authors@R: c(person("Lukas", "Beule", role = c("aut", "cre"),
+                    email = "lukas.beule@agr.uni-goettingen.de"),
+                    person("Simon", "Schiwek", role = "aut"),
+                    person("Charlotte", "Rodemann", role = "aut"),
+                    person("Petr", "Karlovsky", role = "aut") )
+Description: The analysis of high-resolution melting (HRM) curves provides cost-efficient post-PCR distinction among amplicons differing by as little as a single base pair, based on their thermal denaturation (melting) properties. HRM curve analysis has been used mainly for genotyping and detection of mutations. Beside genotyping, the method has been used to differentiate viral, bacterial and fungal pathogens, and it has a potential for plant genotyping in breeding and as an alternative to DNA barcoding for taxonomic assignment of species. This package offers functions that facilitate drawing denaturation, melting, and difference curves in HRM curve analysis in R. Lukas Beule was supported by the German Federal Ministry of Education and Research (BMBF) in the framework of the Bonares-SIGNAL project (funding codes: 031A562A and 031B0510A). Please cite Schiwek et al. (2020) <doi:10.3390/pathogens9040270> if you use this package in your work.
+Depends: R (>= 3.6.0)
+License: CC BY-SA 4.0
+Encoding: UTF-8
+Author: Lukas Beule [aut, cre],
+  Simon Schiwek [aut],
+  Charlotte Rodemann [aut],
+  Petr Karlovsky [aut]
+Maintainer: Lukas Beule <lukas.beule@agr.uni-goettingen.de>
+Repository: CRAN
+NeedsCompilation: no
+Packaged: 2020-12-16 15:27:05 UTC; lukasbeule
+Date/Publication: 2020-12-18 09:20:08 UTC

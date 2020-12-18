@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+##import
+
+#importFrom
+importFrom("graphics", "axis", "matplot", "par", "segments")

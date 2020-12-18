@@ -1,0 +1,22 @@
+citHeader("To cite HRM.curve in publications use:")
+
+citEntry(entry="Article",
+         title = "High-Resolution Melting (HRM) Curve Assay for the Identification of Eight Fusarium Species Causing Ear Rot in Maize",
+         author = personList(as.person("S. Schiwek"), 
+                             as.person("L. Beule"),
+                             as.person("M. Vinas"),
+                             as.person("A. Pfordt"),
+                             as.person("A. von Tiedemann"),
+                             as.person("P. Karlovsky")),
+	       journal = "Pathogens",
+	       volume = 9,
+	       issue = 4,
+	       pages = "270",
+         year         = 2020,
+         url          = "https://doi.org/10.3390/pathogens9040270",
+         
+         textVersion = 
+         paste("Schiwek, S., Beule, L., Vinas, M., Pfordt, A., von Tiedemann, A., & Karlovsky, P. (2020)", 
+               "High-Resolution Melting (HRM) Curve Assay for the Identification of Eight Fusarium Species Causing Ear Rot in Maize.",
+               "Pathogens,", "9,", "4", "270.", "https://doi.org/10.3390/pathogens9040270.")
+)

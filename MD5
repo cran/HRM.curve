@@ -1,0 +1,9 @@
+8cfe2ca1854ad3a6a16032b10e577dbd *DESCRIPTION
+afa0a81a8d01814642e2041f1fc8add6 *NAMESPACE
+0e061b65e46246efbb24e8b8c45113dd *R/denaturation.curves.R
+04e74e33033acfb3cdecc852701fc336 *R/difference_curves.R
+273b333167c83d59bb0a813d354951cf *R/melting.curves.R
+6ecef03e35718a87d6ccd7a3acc8a5c9 *inst/CITATION
+3099a821e50f7a980d89871f370571fa *man/denaturation.curves.Rd
+98fce4d97ed3731136d3b6da32827a5b *man/difference.curves.Rd
+b02d485028ff68aa0c2fc34c9688ad01 *man/melting.curves.Rd
